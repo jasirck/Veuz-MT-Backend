@@ -1,0 +1,19 @@
+printf("selct your choice\n1:polo\n2:bmw m3\n3:bmw m5\n4:gtr");
+    int choice;
+    scanf("%d",choice);
+    switch(choice){
+        case 1:
+        printf("your selact polo");
+        break;
+        case 2:
+        printf("your selact bmw m3");
+        break;
+        case 3:
+        printf("your selact bmw m5");
+        case :
+        printf("your selact gte");
+        break;
+        default:
+        printf("somthing wrong")
+        
+    
