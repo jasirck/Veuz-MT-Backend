@@ -1,8 +1,0 @@
-Good morning! I'm Muhammed Jasir CK, and I'm from Calicut in Kerala. I'm a self-taught Full Stack Developer specializing in Django for the backend and React for the frontend. I also have a solid understanding of both SQL and NoSQL databases.
-
-One of my greatest strengths is my ability to learn on my own and adapt to new environments quickly. After completing my higher secondary education, I joined a self-learning bootcamp. Within just seven months, without any mentors or teachers—just using resources available online—I was able to become a Full Stack Developer. I'm also highly interested in learning new technologies and continuously expanding my skill set to stay up-to-date in this fast-evolving field.
-
-I believe my adaptability and determination to learn make me a great fit for any team. I can easily adjust to different work environments and tackle new challenges. On the flip side, one area where I struggled in the past was managing my time efficiently, especially when it came to distractions like social media. To address this, I started using an app that restricts social media usage during work hours, which has significantly improved my productivity.
-
-I'm excited about the opportunity to bring my skills, passion for learning, and self-driven mindset to your organization, and I look forward to contributing to your team's success.
-
